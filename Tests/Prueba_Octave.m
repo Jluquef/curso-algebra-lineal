@@ -1,0 +1,1 @@
+z1 = complex (1,2)class(z1)z2 = complex( 2,4)class(z2)

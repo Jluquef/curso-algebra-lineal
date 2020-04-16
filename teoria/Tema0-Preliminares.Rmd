@@ -11,7 +11,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, comment = NA, engine.path = list(
-  octave = '/Applications/Octave-4.4.1.app/Contents/Resources/usr/bin/octave'
+  octave = '/Applications/Octave-4.4.1.app/Contents/Resources/usr/bin/octave-octave-app'
 ))
 library(polynom)
 library(pracma)
